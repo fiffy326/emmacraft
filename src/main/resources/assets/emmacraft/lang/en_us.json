@@ -1,0 +1,12 @@
+{
+  "itemGroup.emmacraft.custom": "Custom",
+  "item.emmacraft.scroll": "Scroll",
+  "block.emmacraft.glape": "Glape",
+  "block.emmacraft.glape.text.used": "Meow!",
+  "block.emmacraft.glape.text.placed": "Meow!",
+  "block.emmacraft.glape.text.damaged": "Oww!",
+  "block.emmacraft.glape.text.broken": "You murderer...",
+  "block.emmacraft.glape.text.blownUp": "*cat chunks fly everywhere*",
+  "block.emmacraft.glape.text.landedOn": "*painful squeaking*",
+  "block.emmacraft.glape.text.steppedOn": "*distressed squeaking*"
+}
