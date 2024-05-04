@@ -4,5 +4,7 @@ My personal Minecraft tweaks.
 
 ## Features
 
-- Added 'glape' cat block.
 - Sends death coordinates in chat when you die.
+- Added 'glape' cat block.
+
+![Glape](src/main/resources/assets/emmacraft/textures/block/glape.png "Glape")
