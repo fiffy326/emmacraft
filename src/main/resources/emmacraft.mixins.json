@@ -3,7 +3,6 @@
 	"package": "fiffy.emmacraft.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"EmmacraftMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
