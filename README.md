@@ -4,7 +4,7 @@ My personal Minecraft tweaks.
 
 ## Features
 
-- Sends death coordinates in chat when you die.
+- Added '/deathcoords' command to show last death position.
 - Added 'glape' cat block.
 
 ![Glape](src/main/resources/assets/emmacraft/textures/block/glape.png "Glape")
